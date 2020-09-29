@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+#Ethan Herbst
 
-You can use the [editor on GitHub](https://github.com/ebh1540/ebh1540.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For high school, I attended Bergen County Academies in Hackensack, New Jersey, a magnet school for my county. I was in the Computer Science academy (basically just a track), so I've been involved in programming for a few years now. I'm Jewish and and somewhat involved in my local temple; I was on their youth group board last year, and I virtually attended their high holiday services this year (a silver lining of the pandemic). I play a lot of Super Smash Bros. and I'm looking to get more involved in that community here at RIT. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My favorite food is cheeseburgers.
+![Cheeseburger](https://assets.myfoodandfamily.com/adaptivemedia/rendition/195370-3000x2000.jpg?id=093000b4880e99e6cd87fa511235a789145c5a0a&ht=650&wd=1004&version=1&clid=pim)
 
-### Markdown
+[Here's a link to the Software Engineering website](https://www.rit.edu/computing/department-software-engineering)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ebh1540/ebh1540.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A few things I'd like to learn from the course:
+- Industry standards for collaborative work on projects
+- How to better pitch software products to non-computer people
+- Ethical implications in more complex forms of software work
+- More about my peers!
