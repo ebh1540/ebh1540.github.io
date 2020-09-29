@@ -1,4 +1,4 @@
-#Ethan Herbst
+# Ethan Herbst
 
 For high school, I attended Bergen County Academies in Hackensack, New Jersey, a magnet school for my county. I was in the Computer Science academy (basically just a track), so I've been involved in programming for a few years now. I'm Jewish and and somewhat involved in my local temple; I was on their youth group board last year, and I virtually attended their high holiday services this year (a silver lining of the pandemic). I play a lot of Super Smash Bros. and I'm looking to get more involved in that community here at RIT. 
 
